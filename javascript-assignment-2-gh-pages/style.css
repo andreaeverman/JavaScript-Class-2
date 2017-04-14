@@ -1,0 +1,21 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+.box,
+.clicked {
+    width: 44px;
+    height: 44px;
+    margin: 2px;
+    background-color: #F00;
+    float: left;
+    cursor: pointer;
+}
+
+.clicked {
+    width: 20px;
+    height: 20px;
+    margin: 14px;
+    cursor: cell;
+}
